@@ -21,9 +21,9 @@ SpeedLink机场是一家专注于高端稳定IPLC专线的SSR翻墙机场，采�
 [**点击直达官网**](https://go.51tz.cc/nicecloud)
 耐斯云是一家经营时间超过2年的翻墙服务商，提供SSR和V2ray翻墙协议节点，国内中转和IPLC内网专线。IPLC专线不经过GFW，稳定性有保证，即使在敏感时期也不用担心被封锁。机场经常有优惠活动，包年套餐优惠力度较大，机场提供不限时流量套餐。
 
-### DDOV-网络加速器
-[**点击直达官网**](https://go.51tz.cc/dd)
-DDOV是一家成立于2022年的魔法上网加速器，采用V2ray安全协议，线路有IEPL和IPLC专线。对Netflix、Disney+等流媒体解锁支持也很好。DDOV提供定制的一键翻墙VPN客户端，支持安卓、Mac和Windows。注册可以免费试用，套餐年付有优惠,提供24h在线客服响应。
+### Soda网络加速器-按流量计费
+[**点击直达官网**](https://go.51tz.cc/sodacloud)
+Soda是一家成立于2022年的魔法上网加速器，采用V2ray安全协议，线路有IEPL和IPLC专线。对Netflix、Disney+等流媒体解锁支持也很好。Soda提供定制的一键翻墙VPN客户端，支持安卓、Mac和Windows。注册可以免费试用，套餐年付有优惠,提供24h在线客服响应。
 
 ### FlyingCAT
 FlyingCAT是一家新兴的Shadowsocks翻墙服务商，采用国内中转和IEPL内网专线节点，服务稳定可靠。电脑和安卓系统可以使用推荐的Clash客户端，iOS需要搭配第三方付费软件如Shadowrocket或Stash使用。FlyingCAT对年付套餐有较大优惠，季付9折，半年85折，年付8折。除了优惠力度大，FlyingCAT对Netflix、Disney+等流媒体解锁支持也很好。
