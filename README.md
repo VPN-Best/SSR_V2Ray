@@ -38,7 +38,7 @@ Nexiapl成立于2017年，支持Shadowsocks、Trojan等多种专用翻墙协议�
 ## SS（SSR）、V2ray和Trojan协议，哪个翻墙协议最好？
 ### Shadowsocks/ShadowsocksR协议
 
-Shadowsocks协议是基于Socks5协议的专用翻墙代理协议，Shadowsocks（简称SS）由客户端和服务器端组成。可以自己搭建服务器，也可以购买专业的SS节点。提供SS节点的服务商称为[SS机场](https://reactchina.sxlcdn.com/t/topic/40257)。
+Shadowsocks协议是基于Socks5协议的专用翻墙代理协议，Shadowsocks（简称SS）由客户端和服务器端组成。可以自己搭建服务器，也可以购买专业的SS节点。提供SS节点的服务商称为[SS机场](https://github.com/hwanz/SSR-V2ray-Trojan-vpn/issues/31)。
 
 Shadowsocks是最早开发的成熟翻墙协议，最新的Shadowsocks-2022协议已推出。
 
