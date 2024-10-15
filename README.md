@@ -67,7 +67,7 @@ vmess://eyJhZGQiOiAiYjIyLm50YnEuZHludS5uZXQiLCAiYWlkIjogMCwgImhvc3QiOiAiYjIyLm50
 
 **中度应用-流量充沛**
 
-[点击传送2号梯子「月租18元」](https://go.1vpn.cc/suyu)
+[点击传送3号梯子「月租18元」](https://go.1vpn.cc/suyu)
 
 **重度应用-高速稳定**
 
