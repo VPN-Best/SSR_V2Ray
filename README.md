@@ -4,7 +4,7 @@
 ## 什么是SSR？
 SSR是ShadowsocksR协议的缩写，ShadowsocksR是流行的翻墙协议Shadowsocks的增强版本，在数据混淆和加密方面具有更大的优势。
 
-目前不建议自建翻墙节点使用SSR协议，[**翻墙机场**](https://studygolang.com/topics/16789)的线路经过国内服务器中转后，再通过隧道进行加密，所以可使用Shadowsocks、ShadowsocksR、Trojan、V2ray等协议。  
+目前不建议自建翻墙节点使用SSR协议，[**翻墙机场**](https://github.com/2026VPN/cnvpn)的线路经过国内服务器中转后，再通过隧道进行加密，所以可使用Shadowsocks、ShadowsocksR、Trojan、V2ray等协议。  
 ![SSR_V2Ray.jpg](https://s2.loli.net/2023/11/14/IgrY5edz7whfxNa.jpg)
 
 ## SSR节点购买推荐 | 2025科学上网机场节点梯子购买
@@ -71,7 +71,4 @@ vmess://eyJhZGQiOiAiYjIyLm50YnEuZHludS5uZXQiLCAiYWlkIjogMCwgImhvc3QiOiAiYjIyLm50
 
 **重度应用-高速稳定**
 
-[点击传送4号梯子「月租20元」](https://go.1vpn.cc/xxfeng)
-
-**顶级应用-尊享丝滑**
 
