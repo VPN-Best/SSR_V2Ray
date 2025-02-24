@@ -5,7 +5,7 @@
 SSR是ShadowsocksR协议的缩写，ShadowsocksR是流行的翻墙协议Shadowsocks的增强版本，在数据混淆和加密方面具有更大的优势。
 
 目前不建议自建翻墙节点使用SSR协议，[**翻墙机场**](https://github.com/2026VPN/cnvpn)的线路经过国内服务器中转后，再通过隧道进行加密，所以可使用Shadowsocks、ShadowsocksR、Trojan、V2ray等协议。  
-![SSR_V2Ray.jpg](https://s2.loli.net/2023/11/14/IgrY5edz7whfxNa.jpg)
+![SSR_V2Ray.jpg](https://www.cnvintage.org/assets/files/2025-02-24/1740390767-268336-image.png)
 
 ## SSR节点购买推荐 | 2025科学上网机场节点梯子购买
 以下是提供SSR节点和V2ray节点的翻墙机场，使用体验差不多，同时还包括原版SS节点、V2ray节点和Trojan节点机场，排名不分先后。只需要将购买的订阅导入Clash软件中，即可开启魔法上网之旅。为了稳定科学上外网，建议备有多个ssr机场梯子作为备用。
@@ -34,8 +34,9 @@ XXFeng是一家新兴的Shadowsocks翻墙服务商，采用国内中转和IEPL�
 [**点击直达官网**](https://go.1vpn.cc/suyu)
 速云梯提供海量SSR/V2ray翻墙协议节点，有国内中转和IPLC内网专线。IPLC专线不经过GFW，稳定性有保证，不用担心被封锁。
 
-### Nexipal
-Nexiapl成立于2017年，支持Shadowsocks、Trojan等多种专用翻墙协议。不同于采用SSpanel和V2board面板的机场，Nexiapl具备自主开发的面板和高端专线出墙，国内多线服务器接入，保证随时顺利翻墙出海，非常适合商务需求的用户。同时，对个人用户来说，Nexiapl也能满足观影需求，支持Netflix、Disney+等流媒体解锁。
+### 优信云
+[**点击直达官网**](https://go.1vpn.cc/uxin)
+优信云成立于2022年，支持Shadowsocks、Trojan等多种专用翻墙协议。不同于采用SSpanel和V2board面板的机场，Nexiapl具备自主开发的面板和高端专线出墙，国内多线服务器接入，保证随时顺利翻墙出海，非常适合商务需求的用户。同时，对个人用户来说，优信云也能满足观影需求，支持Netflix、Disney+等流媒体解锁。
 
 ## SS（SSR）、V2ray和Trojan协议，哪个翻墙协议最好？
 ### Shadowsocks/ShadowsocksR协议
@@ -57,7 +58,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU5OTk5XHU2ZTJmIFx1OTYzZlx1OTFjY1x1NGU5MSIsICJh
 vmess://eyJhZGQiOiAiYjIyLm50YnEuZHludS5uZXQiLCAiYWlkIjogMCwgImhvc3QiOiAiYjIyLm50YnEuZHludS5uZXQiLCAiaWQiOiAiZmZlNGEwZTItNjVkMC00NDkyLWEyZDQtZjU5NTU5ODZmZTg5IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9iMjIiLCAicG9ydCI6IDQ0MywgInBzIjogIlx1NTNmMFx1NmU3ZVx1NzcwMVx1NjViMFx1NTMxN1x1NWUwMiBcdTRlMmRcdTUzNGVcdTc1MzVcdTRmZTEiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
 
 ---
-#翻墙机场 #翻墙机场推荐 #SS/DDR/机场 机场加速器购买 #V2ray机场梯子 #Trojan机场 #Clash节点VPN #翻墙加速器 #好用的便宜梯子 #翻墙梯子 #高性价比梯子 #稳定梯子推荐 #手机电脑梯子 #外网梯子
+#翻墙机场 #2025机场推荐 #SS/DDR/机场 机场加速器购买 #V2ray机场梯子 #Trojan机场 #Clash节点VPN #翻墙加速器 #好用的便宜梯子 #翻墙梯子 #高性价比梯子 #稳定梯子推荐 #手机电脑梯子 #外网梯子
 
 [点击传送1号梯子「月租11元」](https://go.1vpn.cc/jife)
 
